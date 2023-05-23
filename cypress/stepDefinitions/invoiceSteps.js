@@ -1,4 +1,4 @@
-import { Given, When, Then, DataTable } from '@badeball/cypress-cucumber-preprocessor';
+import { When, Then } from '@badeball/cypress-cucumber-preprocessor';
 import config from '../helpers/config.js'
 import selectors from '../helpers/selectors.js';
 
