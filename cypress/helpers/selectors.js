@@ -71,5 +71,8 @@ export default {
     recommendedItems: '.recommended_items',
     recommededAddToCart: '.recommended_items .productinfo .add-to-cart',
     recommendedItemName: '.recommended_items .productinfo p',
-    continueShopping: '.btn.btn-success.close-modal.btn-block'
+    continueShopping: '.btn.btn-success.close-modal.btn-block',
+    subscriptionButton: '#subscribe',
+    subscriptionEmail: '#susbscribe_email',
+    subscriptionMessage: 'div[class$="group"] .alert-success.alert'
 };
